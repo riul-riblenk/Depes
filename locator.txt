@@ -1,0 +1,17 @@
+$apt-get install git curl openssh python python2 tsu -y
+$git clone https://github.com/thelinuxchoice/locator
+$cd locator
+$tsu
+#bash locator.sh
+
+-Isi Port Forward = 1
+-Isi Port Default = 1222
+-Salin Link Yang Ada Pada Tulisan "Send The Direct Link To Target" 
+-Kirimkan link Itu Pada Korban/Target . -Jangan Close Termux
+-Tunggu Sampai Target Meng-klik Link Yang anda Kirim
+-Maka Lokasi Beserta Ip Address Akan Ditampilkan
+
+(Gunakan Tools Ini Untuk Melacak Seseorang Yang Sudah Menipu Kita, Jangan Jahil, Jangan Disalahgunakan)
+
+Thanks To :
+Author : @thelinuxchoice
