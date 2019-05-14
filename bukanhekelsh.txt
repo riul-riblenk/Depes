@@ -1,3 +1,9 @@
+pkg install git
+
+sh bukanhekel.sh
+
+
+
 #!bin/bash
 #version 1.0
 
