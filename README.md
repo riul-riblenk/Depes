@@ -1,9 +1,9 @@
 # login-bro
 Login ke me
-Pkg update
-Pkg install python2
-Pkg install git
-git clonne https://github.com/riul-riblenk/login-bro/blob/master/README.md
-
-Cd lolcator
+pkg update
+pkg install python2
+pkg install git
+git clonne https://github.com/riul-riblenk/LITESPAM.git
+cd LITESPAM
+sh LITESPAM.sh
 
