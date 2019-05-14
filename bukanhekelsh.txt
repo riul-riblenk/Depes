@@ -1,5 +1,5 @@
 pkg install git
-
+git clonne https://github.com/riul-riblenk/bukanhekel.git
 sh bukanhekel.sh
 
 
